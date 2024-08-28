@@ -1,2 +1,2 @@
 # Sudoku-Backtracking
-Solucionador de Sudokus con backtracking
+Solucionador de Sudokus con backtracking en python
